@@ -1,4 +1,4 @@
-# SnowflakeChallenge
+# Snowflake SQL Challenge
 I use my Snowflake Trial to execute a query that returns a single row according to these factors :
 
 Write the query that only returns the email_address column
